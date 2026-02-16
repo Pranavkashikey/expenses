@@ -8,8 +8,8 @@ This project allows users to record, view, filter, and analyze personal expenses
 
 ## 🌐 Live Demo
 
-Frontend: https://expense-tracker-pk-2026.vercel.app  
-Backend API: [https://expense-tracker-backend.onrender.com ](https://expense-tracker-backend-hxuc.onrender.com) 
+Frontend:[ https://fenmo-expense-lab.vercel.app ](https://fenmo-expense-lab.vercel.app/) 
+Backend API: [https://expense-tracker-backend-hxuc.onrender.com ](https://expense-tracker-backend-hxuc.onrender.com) 
 
 ---
 
@@ -80,6 +80,22 @@ MongoDB Atlas was chosen because:
 - Suitable for evolving schema
 
 ---
+## 🚀 Running Locally
 
-## 📂 Project Structure
+### 1️⃣ Clone Repository
+
+git clone  [https://github.com/Pranavkashikey/expenses](https://github.com/Pranavkashikey/expenses)
+
+cd expenses
+
+### 2️⃣ Backend Setup
+cd backend
+npm install
+Create a `.env` file inside backend:
+backend run - npm start
+
+### 3️⃣ Frontend Setup
+cd ../frontend
+npm install
+npm run dev
 
